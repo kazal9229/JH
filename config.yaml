@@ -1,4 +1,4 @@
-#baseurl: https://kazal9229.github.io/
+baseurl: https://kazal9229.github.io/
 languageCode: ko
 theme: hugo-theme-stack
 paginate: 5
